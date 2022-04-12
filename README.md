@@ -1,2 +1,2 @@
-# Revocacion-de-Mandato
-Repo del Artículo
+# Revocacion de Mandato
+ Repo del Artículo
