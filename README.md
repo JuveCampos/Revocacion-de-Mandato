@@ -1,2 +1,3 @@
 # Revocacion de Mandato
- Repo del Artículo
+
+Repositorio de código del artículo sobre la revocación de mandato. 
